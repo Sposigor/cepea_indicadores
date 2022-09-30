@@ -2,8 +2,7 @@
 
 import streamlit as st
 import pandas as pd
-import numpy
-import quandl as q
+
 
 # streamlit cache basicamente é para manter a infomação no cache do navegador para quando houve a seleção dos indicadores não tenha que recarregar.
 
